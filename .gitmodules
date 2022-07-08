@@ -1,0 +1,3 @@
+[submodule "linuxp/linuxp/pygame-menu"]
+	path = linuxp/linuxp/pygame-menu
+	url = https://github.com/ppizarror/pygame-menu
